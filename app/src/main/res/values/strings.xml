@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ActionBarr</string>
+    <string name="action_home">action_home</string>
+    <string name="action_search">action_search</string>
+    <string name="action_setting">action_setting</string>
+    <string name="action_itemA">action_itemA</string>
+    <string name="action_itemB">action_itemB</string>
+</resources>
